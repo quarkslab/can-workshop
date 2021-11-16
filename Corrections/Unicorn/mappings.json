@@ -1,0 +1,6 @@
+{
+  "0x0": "../../Firmwares/Teensy32/Grehack_VirtECU.ino.hex.raw",
+  "0x1FFFA0B8":"Mappings/can_struct.bin",
+  "0x40024080":"Mappings/mb_examples.bin",
+  "0x40024030":"Mappings/FlexCAN_IFLAG1.bin"
+}

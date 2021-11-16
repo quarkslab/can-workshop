@@ -1,0 +1,4 @@
+# environment variables:
+AFL_KILL_SIGNAL=9
+# command line:
+'/home/d33d34rt/Tools/Fuzzing/AFLplusplus/afl-fuzz' '-U' '-m' 'none' '-i' './inputs' '-o' './outputs' '--' 'python' 'can_handler_4A8_fuzz.py' '@@'
